@@ -12,7 +12,7 @@ This work introduces and assesses the efficiency of a novel monolithic $ph\text{
 
 ## Authors
 
-- Alexey Voronin (voronin2 [at] illinois.edu)
+- [Alexey Voronin](https://alexey-voronin.github.io/) (voronin2 [at] illinois.edu)
 - Graham Harper
 - Scott MacLachlan
 - Luke N. Olson
@@ -25,7 +25,12 @@ This GitHub repository houses the code and data referenced in the aforementioned
 
 # How to Run the Example Problems
 
-The primary code is located in the [phmg](./phmg/) directory. The scripts required for data collection are stored in the [data](./data/) directory.
+The primary code is located in the [phmg](./phmg/) directory. The scripts required for data collection are stored in the [data](./data/) directory. The codebase follows a similar problem and class definition framework found in [(A)ugmented (L)agrangian based solvers for the Navier Stokes equation in (Fi)redrake](https://github.com/florianwechsung/alfi/) and incorporates the barycentric coarsening function from that codebase, which is essential for the stability of the Scott-Vogelius discretization.
+
+## Key Features:
+- **Taylor-Hood** discretized problems are solved using monolithic hMG and phMG preconditioners. 
+- **Scott-Vogelius** discretized problems are solved using multigrid-based full-block factorization and monolithic multigrid preconditioners. 
+
 
 ## Dependencies
 
