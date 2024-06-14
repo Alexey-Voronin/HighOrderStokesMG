@@ -1,6 +1,5 @@
 # This code incorporates elements borrowed from the "alfi" repository by Florian Wechsung.
 # Original source: https://github.com/florianwechsung/alfi
-# This code is used in accordance with the license provided in the original repository.
 from firedrake import *
 import firedrake
 from pyop2.datatypes import IntType
