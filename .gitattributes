@@ -1,0 +1,4 @@
+data/2D/** filter=lfs diff=lfs merge=lfs -text
+data/3D/** filter=lfs diff=lfs merge=lfs -text
+phmg/meshes/meshes/2D filter=lfs diff=lfs merge=lfs -text
+phmg/meshes/meshes/2D/ filter=lfs diff=lfs merge=lfs -text
