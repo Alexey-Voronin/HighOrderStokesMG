@@ -25,7 +25,7 @@ This GitHub repository houses the code and data referenced in the aforementioned
 
 # How to Run the Example Problems
 
-The primary code is located in the [phmg](./phmg/) directory. The scripts required for data collection are stored in the [data](./data/) directory. The codebase incorporates the barycentric coarsening function from [(A)ugmented (L)agrangian based solvers for the Navier Stokes equation in (Fi)redrake](https://github.com/florianwechsung/alfi/) codebase, which is essential for the stability of the Scott-Vogelius discretization.
+The primary code is located in the [phmg](./phmg/) directory. The scripts required for data collection are stored in the [data](./data/) directory. The codebase uses the barycentric coarsening function from [(A)ugmented (L)agrangian based solvers for the Navier Stokes equation in (Fi)redrake](https://github.com/florianwechsung/alfi/) codebase, which is essential for the stability of the Scott-Vogelius discretization.
 
 ## Key Features:
 - **Taylor-Hood** discretized problems are solved using monolithic hMG and phMG preconditioners. 
