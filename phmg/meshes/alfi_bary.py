@@ -1,4 +1,4 @@
-# This code incorporates elements borrowed from the "alfi" repository by Florian Wechsung.
+# This code uses functions borrowed from the "alfi" repository by Florian Wechsung.
 # Original source: https://github.com/florianwechsung/alfi
 from firedrake import *
 import firedrake
