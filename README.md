@@ -19,7 +19,8 @@ This work introduces and assesses the efficiency of a novel monolithic $ph\text{
 - Raymond Tuminaro
 
 The published paper can be found at:
-- [arxiv (To be released at the end of June 2024)](https://arxiv.org/)
+- [arxiv](https://arxiv.org/)
+- [SISC](https://epubs.siam.org/doi/abs/10.1137/24M1675588?journalCode=sjoce3)
 
 This GitHub repository houses the code and data referenced in the aforementioned publications.
 
