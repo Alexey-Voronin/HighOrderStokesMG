@@ -12,7 +12,7 @@ This work introduces and assesses the efficiency of a novel monolithic $ph\text{
 
 ## Authors
 
-- [Alexey Voronin](https://alexey-voronin.github.io/) (voronin2 [at] illinois.edu)
+- [Alexey Voronin](https://alexey-voronin.github.io/) (abvoron [at] sandia.gov)
 - Graham Harper
 - Scott MacLachlan
 - Luke N. Olson
